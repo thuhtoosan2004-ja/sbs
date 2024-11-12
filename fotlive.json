@@ -1,0 +1,272 @@
+{
+	"data": {
+		"matches": [
+			{
+				"league": "Serie A",
+				"leagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+				"leagueMatches": [
+					{
+						"matchName": "Genoa Vs Fiorentina",
+						"matchDate": "Fri, November 1, 12:00 AM",
+						"homeImage": "https://thuhtoosan2004-ja.github.io/images/9879_small.png",
+						"awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
+						"serverlinks": [
+							{
+								"server": "HD",
+								"link": "https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8",
+								"referer": "https://www.doomovie-hd.pro/",
+								"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+							},
+							{
+								"server": "Ture2",
+								"link": "https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8",
+								"referer": "https://www.doomovie-hd.pro/",
+								"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+							},
+							{
+								"server": "HD",
+								"link": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1730791288-0-0-8924aa03fd55e16a09840acc576bff80",
+								"referer": "https://socolive13.tv/",
+								"userAgent": ""
+							}
+						],
+						"live": 1
+					},
+					{
+						"matchName": "Como Vs Lazio",
+						"matchDate": "Fri, November 1, 2:15 AM",
+						"homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10171_small.png",
+						"awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
+						"serverlinks": [
+							{
+								"server": "HD",
+								"link": "https://pull.niues.live/live/stream-9912100_lhd.m3u8?auth_key=1730049087-0-0-3303d8636d880c2c824a7e884086ddd2",
+								"referer": "https://socolive13.tv/",
+								"userAgent": ""
+							},
+							{
+								"server": "Test Channels",
+								"link": "https://r3-sn-5fo-c37ed248.googleuservideo.com:8443/Premier1_720/index.m3u8?token=c2VydmVyX3RpbWU9MTAvMTYvMjAyNCAwMTo0MDozNiBBTSZoYXNoX3ZhbHVlPVU2b1J3VW5OaHdub1pUbjJTRi9YdGc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0wJmlkPXdlYi0xMzg1NzU=",
+								"referer": "https://www.dooflixtv.com/",
+								"userAgent": ""
+							},
+							{
+								"server": "HD",
+								"link": "https://cdn2.aws-live-streaming.com/lsmscore/astro2/playlist.m3u8",
+								"referer": "https://dookeela.live/",
+								"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+							},
+							{
+								"server": "HD",
+								"link": "https://cdn2.aws-live-streaming.com/lsmscore/bein3/playlist.m3u8",
+								"referer": "https://99dooball.com/",
+								"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+							}
+						],
+						"live": 0
+					},
+					{
+						"matchName": "Roma Vs Torino",
+						"matchDate": "Fri, November 1, 2:15 AM",
+						"homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+						"awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
+						"serverlinks": [
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							},
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							},
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							}
+						],
+						"live": 0
+					}
+				]
+			},
+			{
+				"league": "Premier League",
+				"leagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
+				"leagueMatches": [
+					{
+						"matchName": "Newcastle United Vs Arsenal",
+						"matchDate": "Sat, November 2, 7:00 PM",
+						"homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+						"awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+						"serverlinks": [
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							},
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							},
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							}
+						],
+						"live": 0
+					},
+					{
+						"matchName": "Bournemouth Vs Manchester City",
+						"matchDate": "Sat, November 2, 9:30 PM",
+						"homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+						"awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+						"serverlinks": [
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							},
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							},
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							}
+						],
+						"live": 0
+					},
+
+
+					{
+						"matchName": "Ipswich Town Vs Leicester City",
+						"matchDate": "Sat, November 2, 9:30 PM",
+						"homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9902_small.png",
+						"awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+						"serverlinks": [
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							},
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							},
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							}
+						],
+						"live": 0
+					},
+
+					{
+						"matchName": "Liverpool Vs Brighton",
+						"matchDate": "Sat, November 2, 9:30 PM",
+						"homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+						"awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+						"serverlinks": [
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							},
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							},
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							}
+						],
+						"live": 0
+					},
+
+					{
+						"matchName": "Nottingham Forest Vs West Ham United",
+						"matchDate": "Sat, November 2, 9:30 PM",
+						"homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+						"awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+						"serverlinks": [
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							},
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							},
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							}
+						],
+						"live": 0
+					},
+
+					{
+						"matchName": "Southampton Vs Everton",
+						"matchDate": "Sat, November 2, 9:30 PM",
+						"homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
+						"awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+						"serverlinks": [
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							},
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							},
+							{
+								"server": "HD",
+								"link": "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+								"referer": "",
+								"userAgent": ""
+							}
+						],
+						"live": 0
+					}
+				]
+			}
+		]
+	}
+}

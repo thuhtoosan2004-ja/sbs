@@ -1,0 +1,169 @@
+{
+	"channels": [
+
+		{
+			"channelCategoryName": "Myanmar Channels",
+			"channelData": [
+				{
+					"channelName": "MRTV - 4",
+					"channelImage": "https://pbs.twimg.com/profile_images/1535482901/1-mrtv-4_400x400.jpg",
+					"channelLink": "https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "Channel - 7",
+					"channelImage": "https://paisleypark.com.au/wp-content/uploads/2024/05/feat1.png",
+					"channelLink": "https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "Mahar",
+					"channelImage": "https://maharesports.com/wp-content/uploads/2023/01/Mahar-App-Logo.png",
+					"channelLink": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "5 Plus",
+					"channelImage": "https://thuhtoosan2004-ja.github.io/images/5plus.png",
+					"channelLink": "https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "Channel K",
+					"channelImage": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Channelk.png",
+					"channelLink": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "MNTV",
+					"channelImage": "https://upload.wikimedia.org/wikipedia/en/5/54/Myanmar_National_TV_Logo.jpg",
+					"channelLink": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "MRTV",
+					"channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mrtvchannellogo.png/220px-Mrtvchannellogo.png",
+					"channelLink": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				}
+			]
+		},
+		{
+			"channelCategoryName": "Thailand Sport",
+			"channelData": [
+				{
+					"channelName": "True Premier Football 1",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",
+					"channelLink": "https://219.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "True Premier Football 2",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl2.png",
+					"channelLink": "https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "True Premier Football 3",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl3.png",
+					"channelLink": "https://219.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "True Premier Football 4",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl4.png",
+					"channelLink": "https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "True Premier Football 5",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl5.png",
+					"channelLink": "https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "Bein Sport 1 TH",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/epl-bein1.png",
+					"channelLink": "https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "Bein Sport 2 TH",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/epl-bein2.png",
+					"channelLink": "https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "True Sport 1",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/hd-tsport1.png",
+					"channelLink": "https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+
+				{
+					"channelName": "True Sport 2",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/hd-tsport2.png",
+					"channelLink": "https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+
+				{
+					"channelName": "True Sport 3",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/hd-tsport3.png",
+					"channelLink": "https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "HD Tennis",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/hd-tennis.png",
+					"channelLink": "https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "Test",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/hd-tennis.png",
+					"channelLink": "https://streamamg-fa.akamaiz.com/dookeela/dazn1/playlist.m3u8",
+					"channelReferer": "https://dookeela.live/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				}
+			]
+		}
+
+
+	]
+}

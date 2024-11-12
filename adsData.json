@@ -1,0 +1,86 @@
+{
+	"homBannerAdlist" : [
+		{
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : "https://t.me/ngahtoo2004"
+		},
+
+		{
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : "https://t.me/ngahtoo2004"
+		},
+
+		{
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : "https://t.me/ngahtoo2004"
+		}
+	],
+	
+	"liveBannerAdList" : [
+		{
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : "https://t.me/ngahtoo2004"
+		},
+
+		{
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : "https://t.me/ngahtoo2004"
+		},
+
+		{
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : "https://t.me/ngahtoo2004"
+		}
+	],
+	
+	"movieBannerAdList" : [
+		{
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : "https://t.me/ngahtoo2004"
+		},
+
+		{
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : "https://t.me/ngahtoo2004"
+		},
+
+		{
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : "https://t.me/ngahtoo2004"
+		}
+	],
+	
+	"channelBannerAdList" : [
+		{
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : "https://t.me/ngahtoo2004"
+		},
+
+		{
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : "https://t.me/ngahtoo2004"
+		},
+
+		{
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : "https://t.me/ngahtoo2004"
+		}
+	],
+	
+	"liveExAdImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+	"liveExAdLink" : "https://t.me/ngahtoo2004",
+	"highLiveExAdImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+	"highLiveExAdLink" : "https://t.me/ngahtoo2004",
+	"movieExAdImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+	"movieExAdLink" : "https://t.me/ngahtoo2004",
+	"appAdExImage" : "https://thuhtoosan2004-ja.github.io/images/externalads.png",
+	"appAdExLink" : "https://t.me/ngahtoo2004",
+	"appUptImage" : "",
+	"appUptLink" : "https://t.me/ngahtoo2004",
+	"appUptYoN" : false,
+	"adminContact" : "https://t.me/ngahtoo2004",
+	"telegramChannel" : "https://t.me/ngahtoo2004",
+	"website" : "https://montvnetwork.xyz",
+	"facebookpage" : "https://t.me/ngahtoo2004"
+	
+}
